@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+My CV is [here](https://zhyangcs.github.io/zhihui/files/resume-zh.pdf).
+<!--
 {% include base_path %}
 
 Education
@@ -62,3 +63,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
