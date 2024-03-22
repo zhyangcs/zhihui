@@ -12,7 +12,7 @@ title                    : "Zhihui Yang (杨智慧)"
 title_separator          : "-"
 name                     : &name "Zhihui Yang"
 description              : &description "personal description"
-url                      : "https://zhyangcs.github.io/zhihui/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhyangcs.github.io/zhihui # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://zhyangcs.github.io/zhihui"
 
@@ -42,7 +42,7 @@ author:
   #bitbucket        : # Username - Update with your username on the site
   #codepen          : # Username
   #dribbble         : # Username
-  #github           : "https://zhyangcs.github.io"
+  github           : "https://zhyangcs.github.io"
   #kaggle           : # Username
   #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
