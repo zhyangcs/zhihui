@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhihui Yang (杨智慧)"
-title_separator          : "-"
+#title                    : "Zhihui Yang (杨智慧)"
+#title_separator          : "-"
 name                     : &name "Zhihui Yang"
 description              : &description "personal description"
 url                      : https://zhyangcs.github.io/zhihui # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -22,7 +22,7 @@ repository               : "https://zhyangcs.github.io/zhihui"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Zhihui Yang"
+  name             : "Zhihui Yang (杨智慧)"
   pronouns         : # example: "she/her"  
   bio              : "Researcher, School of Software Technology, Zhejiang University"
   location         : "Hangzhou, China"
