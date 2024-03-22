@@ -1,6 +1,5 @@
 ---
 permalink: /
-<!--title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"-->
 title: "About Me"
 author_profile: true
 redirect_from: 
@@ -46,6 +45,7 @@ Patents
 3. 叶飞，**杨智慧**，沈筠霏，何震瀛，荆一楠，张凯，王晓阳. 物化视图查询方法、系统、设备及存储介质. CN 202310374028.0
 4. 周凯文，**杨智慧**，马会心，何震瀛，荆一楠，王晓阳. 一种基于特定划分的主题模型下的文档生成方法. CN 201710548431.5
 5. 马会心，**杨智慧**，何震瀛，王晓阳. 一种根据阈值快速筛选重要区间的方法. CN 201710027127.6
+
 <!--
 A data-driven personal website
 ======
