@@ -8,9 +8,9 @@ redirect_from:
 ---
 My CV is [here](https://zhyangcs.github.io/zhihui/files/resume-zh.pdf).
 
+<!--
 {% include base_path %}
 
-<!--
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
