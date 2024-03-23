@@ -20,7 +20,7 @@ My CV is [here](https://zhyangcs.github.io/zhihui/files/resume-zh.pdf).
 
 My research interests are in the field of **big data management and analytics**, including **database**, **query processing and optimization**, **database systems + machine learning (DB+ML)**.
 
-<font color="#dd0000" size="4">I am looking for **Highly Self-Motivated Students** with a strong interest in Big Data Management and Analytics. </font>If you are interested in working with me, please send me an email (zhyangcs@zju.edu.cn) with your CV and transcript.
+<font color="#dd0000">I am looking for **Highly Self-Motivated Students** with a strong interest in Big Data Management and Analytics. </font>If you are interested in working with me, please send me an email (zhyangcs@zju.edu.cn) with your CV and transcript.
 
 
 
