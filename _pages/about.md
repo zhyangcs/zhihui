@@ -22,7 +22,8 @@ My research interests are in the field of **big data management and analytics**,
 
 News
 ======
-<font color="#dd0000">I am looking for **Highly Self-Motivated Students** with a strong interest in Big Data Management and Analytics.</font> If you are interested in working with me, please send me an [email]<zhyangcs@zju.edu.cn> with your CV and transcript.
+- <font color=red>I am looking for **Highly Self-Motivated Students** with a strong interest in Big Data Management and Analytics </font> 
+- If you are interested in working with me, please send me an email (<zhyangcs@zju.edu.cn>) with your CV and transcript.
 
 
 
