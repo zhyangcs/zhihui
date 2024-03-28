@@ -14,7 +14,8 @@ name                     : &name "Zhihui Yang"
 description              : &description "personal description"
 url                      : https://zhyangcs.github.io/zhihui # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://zhyangcs.github.io/zhihui"
+  #repository               : "https://zhyangcs.github.io/zhihui"
+repository               : "775896618"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +26,8 @@ author:
   name             : "Zhihui Yang (杨智慧)"
   pronouns         : # example: "she/her"  
   #bio              : <br>Researcher<br/> <br>School of Software Technology<br/> <br>Zhejiang University<br/> <br> <b> Email: zhyangcs@zju.edu.cn </b><br/>
-  bio              : "Researcher | School of Software Technology | Zhejiang University  <b>Email: zhyangcs@zju.edu.cn</b>"
+  #bio              : "<font size='3'><center>Researcher <br> School of Software Technology <br> Zhejiang University <br> <b>Email: zhyangcs@zju.edu.cn</b></center></font>"
+  bio              : "Researcher | School of Software Technology | Zhejiang University <br><br> <b><a href = 'mailto: zhyangcs@zju.edu.cn'>Email: zhyangcs@zju.edu.cn</a></b>"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
