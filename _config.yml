@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   #bio              : <br>Researcher<br/> <br>School of Software Technology<br/> <br>Zhejiang University<br/> <br> <b> Email: zhyangcs@zju.edu.cn </b><br/>
   #bio              : "<font size='3'><center>Researcher <br> School of Software Technology <br> Zhejiang University <br> <b>Email: zhyangcs@zju.edu.cn</b></center></font>"
-  bio              : "Researcher | School of Software Technology | Zhejiang University <br><br> <b><a href = 'mailto: zhyangcs@zju.edu.cn'>Email: zhyangcs@zju.edu.cn</a></b>"
+  bio              : "Researcher | School of Software Technology | Zhejiang University <br><br> <a href = 'mailto: zhyangcs@zju.edu.cn'><b>Email: zhyangcs@zju.edu.cn</b></a>"
   location         : "Hangzhou, China"
   employer         : "Zhejiang University"
   uri              : # URL
