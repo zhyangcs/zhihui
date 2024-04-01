@@ -29,7 +29,7 @@ News
 
 Selected Publication
 ======
-1. Yongshu Bai, **Zhihui Yang**, Feng Gao. "FAAST: An Efficient Serverless Framework Made Snapshot-based Function Response Fast." The ACM International Symposium on High-Performance Parallel and Distributed Computing (HDPC), 2024. (Accepted).
+1. Yongshu Bai, **Zhihui Yang**, Feng Gao. "FAAST: An Efficient Serverless Framework Made Snapshot-based Function Response Fast." The ACM International Symposium on High-Performance Parallel and Distributed Computing (HPDC), 2024. (Accepted).
 2. Tianhuan Yu, Zhenying He, **Zhihui Yang**, Fei Ye, Yuankai Fan, Yinan Jing, Kai Zhang, X. Sean Wang. "Zebra: A Novel Method for Optimizing Text Classification Query in Overload Scenario." World Wide Web Journal (WWWJ), 26(3): 905-931, 2023.
 3. **Zhihui Yang**, Zuozhi Wang, Yicong Huang, Yao Lu, Chen Li, X. Sean Wang. "Optimizing Machine Learning Inference Queries with Correlative Proxy Models." Proceedings of the VLDB Endowment (PVLDB), 15(10): 2032 - 2044, 2022.
 4. **Zhihui Yang**, Yicong Huang, Zuozhi Wang, Feng Gao, Yao Lu, Chen Li, X. Sean Wang. "Demonstration of Accelerating Machine Learning Inference Queries with Correlative Proxy Models." Proceedings of the VLDB Endowment (PVLDB), 15(12): 3734 - 3737, 2022.
